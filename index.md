@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Matthew Ding Final Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello, my name is Matthew Ding. I don't use social media. I like to play games, watch television and want to start a business.
